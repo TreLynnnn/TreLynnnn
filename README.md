@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TreLyn</h1>
-<h3 align="center">A self-motivated full-stack developer from Dallas, TX</h3>
+<h3 align="center">A self-motivated Full-Stack Developer from Dallas, TX</h3>
 
 <p align="left"> <a href="https://twitter.com/trelynnnn" target="blank"><img src="https://img.shields.io/twitter/follow/trelynnnn?logo=twitter&style=for-the-badge" alt="trelynnnn" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **trelyn.dev@gmail.com**
 
-- ⚡ Fun fact **Sims is my getaway**
+- ⚡ Fun fact **The Sims is my getaway**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
