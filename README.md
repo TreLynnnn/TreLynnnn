@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/trelynnnn" target="blank"><img src="https://img.shields.io/twitter/follow/trelynnnn?logo=twitter&style=for-the-badge" alt="trelynnnn" /></a> </p>
 
-- 🔭 I’m currently working on **She Styles Hair Salon website**
+- 🔭 I’m currently working on **Building CRUD, Express, and MongoDB apps**
 
 - 👯 I’m looking to collaborate on **open source projects geared towards building up others.**
 
